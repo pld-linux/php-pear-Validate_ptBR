@@ -7,13 +7,13 @@
 Summary:	%{_pearname} - Validation class for Brazil
 Summary(pl.UTF-8):	%{_pearname} - Klasa sprawdzająca poprawność dla Brazylii
 Name:		php-pear-%{_pearname}
-Version:	0.5.4
-Release:	2
+Version:	0.5.5
+Release:	1
 Epoch:		0
 License:	New BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	db481cb68778024329af05e6ab797840
+# Source0-md5:	5e745946f1d4fb2c4969c0b6bc812d5f
 URL:		http://pear.php.net/package/Validate_ptBR/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
