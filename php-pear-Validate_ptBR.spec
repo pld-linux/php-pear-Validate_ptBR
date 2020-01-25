@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_class		Validate
 %define		_subclass	ptBR
 %define		_status		alpha
